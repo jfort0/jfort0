@@ -1,4 +1,4 @@
-@@ -1,11 +0,0 @@
+
 - 👋 Hi, I’m Josip
 - 👀 I’m interested in solving problems and creating problems
 - 🌱 I’m currently looking for a job as Python developer. Also upgrading Python skills, doing an app project with kivy, playing with football analytics (beautifulsoup, pandas, matplotlib)
