@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Josip
-- 👀 I’m interested in solving problems and creating problems
+- 👀 I’m interested in solving problems and creating solutions
 - 🌱 I’m currently looking for a job as a Python developer. Also upgrading Python skills, doing an app project with kivy, playing with football analytics (beautifulsoup, pandas, matplotlib)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - josipfort@yahoo.com, www.linkedin.com/in/josip-fort-84ba2889
